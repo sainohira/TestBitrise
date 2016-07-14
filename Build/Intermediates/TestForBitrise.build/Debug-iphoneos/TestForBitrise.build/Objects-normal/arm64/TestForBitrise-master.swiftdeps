@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "7e5a3e6cacd77204c1156c79a4615082"
+build_time: [521713973, 13826000]
+inputs:
+  "/Users/kaigi/Documents/TestForBitrise/TestForBitrise/ViewController.swift": [521713970, 0]
+  "/Users/kaigi/Documents/TestForBitrise/TestForBitrise/AppDelegate.swift": [521713970, 0]
